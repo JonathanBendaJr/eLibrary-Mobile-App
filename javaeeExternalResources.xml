@@ -1,0 +1,9 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://schemas.android.com/apk/res/android" location="C:/Android/sdk/tools/apps/SdkController/bin/SdkControllerApp.apk" />
+    <resource url="http://schemas.android.com/tools" location="C:/Android/sdk/SDK Manager.exe" />
+    <ignored-resource url="http://schemas.android.com/apk/res-auto" />
+    <ignored-resource url="http://schemas.android.com/apk/res/android" />
+    <ignored-resource url="http://schemas.android.com/tools" />
+  </component>
+</application>
